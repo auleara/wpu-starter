@@ -5,4 +5,9 @@ Reminder
 - Tetap jaga konsistensi dan semangatnya
 - Remember your goals
 - Always seek for good
-Enjoy all the process.
+Enjoy all the process
+
+Notes:
+- Fix dulu designya
+-  Koordinasi bagian fitur mana untuk siapa
+- Jangan buru-buru tapi jangan terlalu lambat juga
